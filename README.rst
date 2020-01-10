@@ -1,9 +1,3 @@
-================
-django CMS Style
-================
-
-|pypi| |build| |coverage|
-
 **django CMS Style** is a plugin for `django CMS <http://django-cms.org>`_
 that allows you to create a HTML container containing classes, styles, ids
 and other attributes definable through the plugins settings.
