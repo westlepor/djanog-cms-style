@@ -8,23 +8,6 @@ for easy installation.
 
 .. image:: preview.gif
 
-
-Contributing
-============
-
-This is a an open-source project. We'll be delighted to receive your
-feedback in the form of issues and pull requests. Before submitting your
-pull request, please review our `contribution guidelines
-<http://docs.django-cms.org/en/latest/contributing/index.html>`_.
-
-This addon is compatible with `Divio Cloud <http://divio.com>`_ and is also available on the
-`django CMS Marketplace <https://marketplace.django-cms.org/en/addons/browse/djangocms-style/>`_
-for easy installation.
-
-One of the easiest contributions you can make is helping to translate this addon on
-`Transifex <https://www.transifex.com/projects/p/djangocms-style/>`_.
-
-
 Documentation
 =============
 
